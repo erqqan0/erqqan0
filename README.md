@@ -6,7 +6,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/erqqan?label=Followers&style=for-the-badge&color=64BC4A)
 ![GitHub Stars](https://img.shields.io/github/stars/erqqan?label=Stars&style=for-the-badge&color=64BC4A)
 
-**Full-Stack Developer | E-Commerce Specialist | TypeScript Enthusiast**
+**Full-Stack Developer | TypeScript Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-64BC4A?style=for-the-badge)](https://erqqan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erqqan)
@@ -23,7 +23,6 @@ Merhaba! Ben **Erkan**, tutkulu bir **Full-Stack Developer**'ım. Modern web tek
 
 ### 💼 Şu Anda
 
-- 🔨 **Enterprise E-Commerce Platform** geliştiriyorum
 - 🎓 Sürekli öğreniyor ve kendimi geliştiriyorum
 - 🚀 Modern web teknolojileri ile projeler üretiyorum
 - 💡 Açık kaynak projelere katkıda bulunuyorum
@@ -208,7 +207,7 @@ Merhaba! Ben **Erkan**, tutkulu bir **Full-Stack Developer**'ım. Modern web tek
 
 ## 🏆 Projelerim
 
-### 🛍️ Gladsos Store - Enterprise E-Commerce Platform
+### 🛍️ Gladsos Store
 
 **Full-Stack E-Commerce Solution**
 
@@ -536,11 +535,4 @@ Tüm açık kaynak topluluğuna, mentorlarıma ve işbirlikçilerime teşekkürl
 
 **Durum**: 🟢 Aktif olarak geliştirme yapıyorum
 
----
-
-<div align="center">
-
-![Snake Animation](https://github.com/erqqan/erqqan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
